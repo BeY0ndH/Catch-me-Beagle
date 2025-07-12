@@ -26,7 +26,7 @@
 
 ## 프로젝트 구성
 
-<p align="center"><img src="https://github.com/ehdxns/Catch-me-Beagle/assets/129836561/8867282d-0b0f-4314-808f-b8a32810582f" width="50%" height="50%" title="하드웨어"></img><br/></p>
+<p align="center"><img src="https://github.com/ehdxns/Catch-me-Beagle/assets/129836561/8867282d-0b0f-4314-808f-b8a32810582f" title="하드웨어"></img><br/></p>
 
 - **Topic**
 	- Publisher : 주사위 인식 후 주사위 눈 값을 Publish
